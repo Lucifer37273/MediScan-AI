@@ -1,0 +1,7 @@
+torch
+torchvision
+gradio
+groq
+huggingface_hub
+Pillow
+numpy
